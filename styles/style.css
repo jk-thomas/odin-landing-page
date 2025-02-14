@@ -1,0 +1,70 @@
+body {
+    background-color: #222222;
+}
+
+/* WRONG
+body { 
+    //background-color: #beb8b1;
+    background-color: #222222;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    //max-width: 70%;
+    //margin: 0 auto;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    /*min-height: 100vh;
+}
+
+.body-container {
+    max-width: 70%;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.body {
+    display: flex;
+    flex-direction: vertical;
+    flex: 1;
+}
+
+.box {
+    display: flex;
+    flex: 1;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header,
+.footer {
+    font-size: large;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+    //flex-grow: 1;
+    //justify-content: flex-end;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+} */
