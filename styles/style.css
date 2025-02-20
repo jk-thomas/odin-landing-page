@@ -6,7 +6,7 @@ body {
     color: white;
     margin: 5px;
     /* min-height: 100vh; */
-    min-width: 600px;
+    min-width: 500px;
 }
 
 header {
@@ -50,7 +50,7 @@ header {
 
 }
 
-.list {
+.nav {
     gap: 32px;;
 }
 
